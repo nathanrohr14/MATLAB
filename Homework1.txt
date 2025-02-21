@@ -1,0 +1,6 @@
+J = 5:
+	O.S. : 22.2 / 20
+	Rise Time: 297 ms
+J = 10:
+	O.S. : 22.15 / 20
+	Rise Time: 298 ms
